@@ -3,8 +3,10 @@ Python Modular Ugly Text Adventure
 
 
 # File Rundown:
-game.py : Main script to run, contains the play script
+game.py : Main script to run, contains the play script \n
+
 commands.py : Contains the commands used in terminal
+
 fizzler.py : The startup intro script to make opening look pretty
 items.py : Item database
 player.py : Contains the player object
